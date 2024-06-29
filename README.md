@@ -1,7 +1,11 @@
 Name:NANNEBOINA HARI KRISHNA  
+
 Company:CODETECH IT SOLUTIONS
+
 ID:CT08DS1473  Domian:Python
+
 Duration:1st June to 30th June 
+
 Mentor:SRAVANI GOUNI
 
 Creating a Python program to track and manage student grades is a practical project that helps you understand data structures, input/output operations, and basic data processing. Here’s an overview of how to create a student grade management system.
