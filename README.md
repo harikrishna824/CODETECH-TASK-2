@@ -2,7 +2,9 @@ Name:NANNEBOINA HARI KRISHNA
 
 Company:CODETECH IT SOLUTIONS
 
-ID:CT08DS1473  Domian:Python
+ID:CT08DS1473 
+
+Domian:Python
 
 Duration:1st June to 30th June 
 
